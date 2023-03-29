@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Admin Panel equipments
 
-- Last version react
+- React Hooks
 - React Redux Toolkit
 - Redux Persist
 - React Router Component
