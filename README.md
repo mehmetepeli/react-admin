@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React Admin Panel equipments
+
+- Last version react
+- React Redux Toolkit
+- Redux Persist
+- React Router Component
+- MUI Components
+- ReChart
+- Axios
+
 ## Available Scripts
 
 In the project directory, you can run:
